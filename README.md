@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio website [https://vsmidhun21.github.io/portfolio/](https://vsmidhun21.github.io/portfolio/)
 
-- 💬 Ask me about **Python, HTML, CSS, SQL**
+- 💬 Ask me about **Java, Spirng Boot, React, Sql, HTML, CSS**
 
 - 📫 How to reach me **rayiniabhinav@gmail.com**
 
